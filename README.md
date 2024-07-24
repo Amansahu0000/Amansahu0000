@@ -1,16 +1,62 @@
-## Hi there 👋
 
-<!--
-**Amansahu0000/Amansahu0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="left">Hi there! 👋 I'm Aman, an Engineering Student from India.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amansahu0000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amansahu0000&layout=compact&langs_count=5&card_width=320&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
+
+---
+
+<img align="right" height="180" src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" alt="Picture" />
+
+
+
+### Skills & Technologies
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+</div>
+
+### Connect with Me
+
+<div align="left">
+  <a href="https://www.instagram.com/sudhan.shuu/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
+  <a href="mailto:sudhanshuu@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/sudhanshuu/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <a href="https://github.com/sudhaanshuu/sudhaanshuu"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub Badge"/></a>
+</div>
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Amansahu0000/Amansahu0000/output/snake.svg" alt="Snake Animation" />
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amansahu0000&" alt="Aman Kumar" />
+</div>
+
+## About Me ![Profile Views](https://komarev.com/ghpvc/?username=Amansahu0000&color=orange)
+
+- 🌱 I'm currently learning and developing skills in web development and software engineering.
+- 💬 Let's collaborate on GitHub! Feel free to reach out and contribute to my projects.
+- 📫 You can find more about me on my [personal website]().
+
+
+
+
+---
+
+Thanks for visiting! Be calm, Keep Coding😊
